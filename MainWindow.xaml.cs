@@ -23,6 +23,7 @@ namespace GitPracticeApplication
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("テスト");
         }
     }
 }
